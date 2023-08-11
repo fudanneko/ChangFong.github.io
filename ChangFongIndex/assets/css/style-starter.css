@@ -17360,3 +17360,57 @@ h3.post-content-title {
 
 
 /*# sourceMappingURL=style-freedom.css.map */
+
+
+
+
+@media (max-width: 20000px) {
+  .tttt {
+    padding-left: 10px; /* 減少左邊內邊距 */
+    padding-right: 10px; /* 減少右邊內邊距 */
+    padding-bottom: 15px; /* 減少底部內邊距 */
+    width: 600px; /* 圖片寬度 100% */
+    height: 450px; /* 自動維持比例 */
+    max-height: 450px; /* 最大高度限制 */
+  }
+}
+@media (max-width: 1200px) {
+  .tttt {
+    padding-left: 10px; /* 減少左邊內邊距 */
+    padding-right: 10px; /* 減少右邊內邊距 */
+    padding-bottom: 15px; /* 減少底部內邊距 */
+    width: 450px; /* 圖片寬度 100% */
+    height: auto; /* 自動維持比例 */
+    max-height: 450px; /* 最大高度限制 */
+  }
+}
+@media (max-width: 965px) {
+  .tttt {
+    padding-left: 10px; /* 減少左邊內邊距 */
+    padding-right: 10px; /* 減少右邊內邊距 */
+    padding-bottom: 15px; /* 減少底部內邊距 */
+    width: 700px; /* 圖片寬度 100% */
+    height: auto; /* 自動維持比例 */
+    max-height: 700px; /* 最大高度限制 */
+  }
+}
+@media (max-width: 760px) {
+  .tttt {
+    padding-left: 10px; /* 減少左邊內邊距 */
+    padding-right: 10px; /* 減少右邊內邊距 */
+    padding-bottom: 15px; /* 減少底部內邊距 */
+    width: 550px; /* 圖片寬度 100% */
+    height: auto; /* 自動維持比例 */
+    max-height: 450px; /* 最大高度限制 */
+  }
+}
+@media (max-width: 580px) {
+  .tttt {
+    padding-left: 10px; /* 減少左邊內邊距 */
+    padding-right: 10px; /* 減少右邊內邊距 */
+    padding-bottom: 15px; /* 減少底部內邊距 */
+    width: 450px; /* 圖片寬度 100% */
+    height: auto; /* 自動維持比例 */
+    max-height: 450px; /* 最大高度限制 */
+  }
+}
