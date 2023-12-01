@@ -215,7 +215,18 @@ img {
   vertical-align: middle;
   border-style: none;
 }
+.carousel-inner img{
+  max-width: 90%;
+  max-height: 700px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
+.grids-area-hny img{
+  max-width: 100%;
+  max-height: 270px;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
